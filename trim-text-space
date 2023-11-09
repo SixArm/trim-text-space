@@ -2,13 +2,21 @@
 
 # trim-text-spaces
 #
-# Trim text spaces that are typically extraneous:
+# Trim text space is a simple script to delete extraneous spaces:
 #
-#   * Leading lines that are empty
+#   * Delete empty leading lines
 #
-#   * Trailing lines that are empty
+#   * Delete empty trailing lines
 #
-#   * Trailing spaces on any line
+#   * Delete spaces at the end of any line
+#
+# Syntax:
+#
+#     stdin | trim-text-space
+#
+# Example:
+#
+#     cat file.txt | trim-text-space
 #
 # ## Purpose
 #
@@ -33,7 +41,7 @@
 # * Command: trim-text-spaces
 # * Version: 1.0.0
 # * Created: 2023-11-09T20:57:02Z
-# * Updated: 2023-11-09T20:57:02Z
+# * Updated: 2023-11-09T22:01:25Z
 # * License: GPL-2.0 or GPL-3.0 or contact for custom
 # * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
  
