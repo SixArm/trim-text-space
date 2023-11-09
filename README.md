@@ -22,11 +22,9 @@ If you need the double-space at the end of a line, then don't use this tool
 
 ## Thanks
 
-Thanks to dicussion:
-<https://stackoverflow.com/questions/7359527/removing-trailing-starting-newlines-with-sed-awk-tr-and-friends>
+Thanks to dicussion [here](https://stackoverflow.com/questions/7359527/removing-trailing-starting-newlines-with-sed-awk-tr-and-friends)
 
-Thanks to Glenn Jackman for the awk answer:
-<https://stackoverflow.com/users/7552/glenn-jackman>
+Thanks for the awk answer [Glenn Jackman](https://stackoverflow.com/users/7552/glenn-jackman)
 
 ## Tracking
 
