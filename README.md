@@ -33,7 +33,7 @@ Thanks to Glenn Jackman for the awk answer:
 * Command: trim-text-spaces
 * Version: 1.0.0
 * Created: 2023-11-09T20:57:02Z
-* Updated: 2023-11-09T20:57:02Z
+* Updated: 2023-11-09T21:08:23Z
 * License: GPL-2.0 or GPL-3.0 or contact for custom
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
  
