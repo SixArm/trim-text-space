@@ -1,6 +1,6 @@
 # trim-text-space
 
-Trim text space is a simple script to delete extraneous spaces:
+trim-text-space is a simple script to delete extraneous spaces:
 
   * Delete empty leading lines
 
@@ -11,11 +11,16 @@ Trim text space is a simple script to delete extraneous spaces:
 Syntax:
 
 ```sh
+trim-text-space <file> ...
+
 stdin | trim-text-space
 ```
 
-Example:
+Examples:
+
 ```
+trim-text-space file.txt
+
 cat file.txt | trim-text-space
 ```
 
